@@ -69,3 +69,9 @@ span {
     padding: 3px;
     color: rgb(247, 247, 134);
 }
+
+p {
+    width: fit-content;
+    margin: 10px auto;
+    color: rgb(202, 202, 202);
+}
