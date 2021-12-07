@@ -8,7 +8,7 @@ The Warzone Random Drop application is a simple, easy to use program that helps 
 Visit the site at [https://warzonedrop.netlify.app/](https://warzonedrop.netlify.app/)
 
 ### Libraries and technologies
-The Warzone Random Drop Generatork uses:
+The Warzone Random Drop Generator uses:
 
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
